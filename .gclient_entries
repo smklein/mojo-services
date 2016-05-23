@@ -1,8 +1,9 @@
 entries = {
   'motown': 'https://github.com/smklein/motown.git',
-  'base': 'https://github.com/domokit/base.git',
   'motown/base': 'https://chromium.googlesource.com/external/github.com/domokit/base@f613c71b2ed7fe4b4eff33fb7fd3b53e640b4359',
   'motown/buildtools': 'https://chromium.googlesource.com/chromium/buildtools.git@222bd42ce39d1bd8f08fe089b066f49c469e1cdf',
+  'motown/mojo/devtools': 'https://github.com/domokit/devtools.git@176889fd2e17f988727847a03b00c158af8a6c52',
+  'motown/mojo/public': 'https://chromium.googlesource.com/external/github.com/domokit/mojo_sdk.git@e56020ec493a1f8d19e3be11e2a174e11beb52d6',
   'motown/testing/gmock': 'https://chromium.googlesource.com/external/googlemock.git@29763965ab52f24565299976b936d1265cb6a271',
   'motown/testing/gtest': 'https://chromium.googlesource.com/external/googletest.git@be1868139ffe0ccd0e8e3b37292b84c821d9c8ad',
   'motown/third_party/ffmpeg': 'https://chromium.googlesource.com/chromium/third_party/ffmpeg.git@6f7f37e8c16db3bad5624c7504e710c54bdb7bf5',
